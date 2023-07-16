@@ -1,0 +1,1881 @@
+{
+    "title": "default-home",
+    "content": [
+        {
+            "id": "default-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "WELCOME TO MY WORLD"
+                },
+                {
+                    "content": "Hi, Welcome to <span>QSM SERVICES</span> We provide" 
+                }
+            ],
+            "animated_texts": [
+                "Security Services.",
+                "Warehouse Associates.",
+                "Janitorial Services."
+            ],
+            "texts": [
+                {
+                    "content": "QSM a 3-in-1 company in Lower Mainland. We secure,clean and complete other general work."
+                }
+            ],
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-01.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-02.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 3,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-03.png",
+                        "alt": "Skill Icon"
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/building.jpg",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "default-home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "What I Do",
+                "subtitle": "Features"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Business Stratagy",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Menu",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "App Development",
+                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "App Development",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Tv",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile App",
+                    "description": "There are many variations of passages of Lorem Ipsum available, but the majority.",
+                    "icon": "Twitch",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "title": "CEO Marketing",
+                    "description": "always free from repetition, injected humour, or non-characteristic words etc.",
+                    "icon": "Wifi",
+                    "path": "#!"
+                },
+                {
+                    "id": 6,
+                    "title": "Personal Portfolio April",
+                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "icon": "Slack",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "default-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "Our Services",
+                "subtitle": ""
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Security Services",
+                    "category": "Security",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpg"
+                        }
+                    ],
+                    "path": "security",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Janitorial Services",
+                    "category": "Cleaning",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpg"
+                        }
+                    ],
+                    "path": "cleaning",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Warehouse Associates",
+                    "category": "WareHouse Jobs",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ],
+                    "path": "warehouse",
+                    "likeCount": 630
+                }
+            ]
+        },
+        {
+            "id": "security",
+            "section": "security-section",
+            "section_title": {
+                "title": "Security",
+                "subtitle": ""
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Physical Security Solution",
+                    "description": "QSM is a full-service security organization. Our team of security specialists can draw from a wide range of industry expertise to meet your specific needs.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Video Surveillance Solutions",
+                    "description": "Our trained security operators are constantly monitoring activity near your property and making informed decisions before the situation escalates.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Implementing Technology",
+                    "description": "We have seamlessly integrated industry-leading technology into our operations, allowing us to surpass competitors in the quality and effectiveness of our solutions",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-16.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },{
+                    "id": 4,
+                    "title": "Don't Make Things Easy for a Theft: Tips to Protect your Belongin",
+                    "description": "Don't Make Things Easy for a Theft: Tips to Protect your Belongings in Public. Property theft is a problem in Vancouver despite the fact that crime has decreased overall over the past ten years for residents. Owners frequently leave valuables unattended in parks, mall food courts, coffee shops, libraries, and nightclubs, making wallets, handbags, and cell phones the most stolen items.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-06.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                }
+            ]
+        },
+        {
+            "id": "cleaning",
+            "section": "cleaning-section",
+            "section_title": {
+                "title": "Janitorial Service",
+                "subtitle": ""
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "House Cleaning",
+                    "description": "Our complete house cleaning service could be, weekly bi-weekly, or monthly depending on your own needs, and we will make sure you always have a spotless, calming space to come home to. Contact us now for a custom cleaning service Vancouver quotation.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-07.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Move In Cleaning Service",
+                    "description": "We know how hard is to take care of all the extra details when you are moving. Moving into a new house symbolizes a new beginning in your life. If you don’t have the time or expertise for house cleaning, you can always count on our professional team.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-08.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Commercial Cleaning Service",
+                    "description": "We guarantee the highest standards across all aspects of commercial cleaning services. After all, it is a highly specialized industry not to be taken lightly. It takes a trained professional to understand the ins and outs of every aspect so you do not waste time, money, or resources.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-10.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Airbnb Cleaning Service",
+                    "description": "Because it’s the face of our business, we always ensure that everything is done to the highest standard. Short-term rental guests expect a sparkling property when they book on Airbnb. We offer hotel-level housekeeping and cleaning, to ensure every guest has a comfortable stay. This extra level of service will help you earn more 5-star reviews for your property that result in higher future bookings.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-09.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 5,
+                    "title": "Move Out Cleaning Service",
+                    "description": "From top to bottom, our professional cleaners will leave your home spotless. Moving out is hard enough without the stress of cleaning up the entire house before handing over the keys to the landlord or new owners. We will take care of everything from removing cobwebs, to cleaning out kitchen cabinets, ensuring that the house is spotless by the end of our service!",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-11.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 6,
+                    "title": "Office Cleaning",
+                    "description": "We will make sure your office spaces will be clean and sanitized for you and your staff. Corporate offices and commercial buildings must be a safe and clean environment at all times to guarantee the well-being of employees, clients, and visitors. By providing a hygienic environment for employees, you are putting in the effort to reduce the spreading of unwanted illnesses.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-12.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                }
+            ]
+        },
+        {
+            "id": "warehouse",
+            "section": "warehouse-section",
+            "section_title": {
+                "title": "Warehouse Services",
+                "subtitle": ""
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Staff Your Warehouse Right Now",
+                    "description": "For your warehouse, you require a dependable staff in logistics. To create a labor plan for warehouse staffing that exceeds expectations, QSM will work along with you.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/warehouse-1.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Production Workers",
+                    "description": "With the help of our skilled production team, maximize the potential of your business. We have the workforce you require, from short-term to long-term staffing, all fully vetted and prepared for success from day one!",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/warehouse-2.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Forklift Drivers",
+                    "description": "Shipments need to be transported around the warehouse, and the forklift operator is responsible for doing this. Outgoing shipments are moved to the loading dock, and inbound shipments are moved to the appropriate storage locations. The use of forklifts to move things from high shelves can help inventory be organized.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/warehouse-3.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Receiving and Shipping",
+                    "description": "Another seasoned employee who assists with order picking and packing as well as receiving packages is the shipping and receiving specialist. A portion of the administration is also under their supervision, including order sequencing, inventory control, quality assurance, and order tracking and documentation.",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/warehouse-4.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 5,
+                    "title": "General Labor",
+                    "description": "General Laborers are employed in every sector. The various general labor duties and tasks in a warehouse are varied. Cleaning and other janitorial and maintenance duties might be requested of you. In other circumstances, you might be requested to help move and reposition skids, tubs, and boxes!",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/warehouse-5.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                }
+            ]
+        },
+        {
+            "id": "default-home-resume",
+            "section": "resume-section",
+            "section_title": {
+                "title": "My Resume",
+                "subtitle": "7+ Years of Experience"
+            }
+        },
+        {
+            "id": "default-home-education",
+            "section": "education-section",
+            "title": "Education",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-skill",
+            "section": "skill-section",
+            "title": "professional Skills",
+            "inner": [
+                {
+                    "id": "default-home-skill-left",
+                    "section_title": {
+                        "title": "Design Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "PHOTOSHOT",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "FIGMA",
+                            "value": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "ADOBE XD",
+                            "value": 60
+                        },
+                        {
+                            "id": 4,
+                            "title": "ADOBE ILLUSTRATOR",
+                            "value": 70
+                        },
+                        {
+                            "id": 5,
+                            "title": "DESIGN",
+                            "value": 90
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-skill-right",
+                    "section_title": {
+                        "title": "Design Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "HTML",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "CSS",
+                            "value": 80
+                        },
+                        {
+                            "id": 3,
+                            "title": "JAVASCRIPT",
+                            "value": 90
+                        },
+                        {
+                            "id": 4,
+                            "title": "SOFTWARE",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "PLUGIN",
+                            "value": 70
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-experience",
+            "section": "experience-section",
+            "title": "experience",
+            "inner": [
+                {
+                    "id": "default-home-experience-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-interview",
+            "section": "interview-section",
+            "title": "interview",
+            "inner": [
+                {
+                    "id": "default-home-experience-left",
+                    "section_title": {
+                        "title": "Company Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Testimonial",
+                "subtitle": "What Clients Say"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Kaffy Garg",
+                    "subtitle": "Rainbow-Themes",
+                    "designation": "Chief executive officer",
+                    "projectTitle": "Android App Development",
+                    "projectMeta": "via Upwork - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--1st.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Jone Duone Joe",
+                    "subtitle": "Bound - Trolola",
+                    "designation": "Operating Officer",
+                    "projectTitle": "Web App Development",
+                    "projectMeta": "Upwork - Mar 4, 2016 - Aug 30, 2021",
+                    "rating": "4",
+                    "description": "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--2nd.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Nevine Dhawan",
+                    "subtitle": "Glassfisom",
+                    "designation": "CEO Of Officer",
+                    "projectTitle": "Android App Design",
+                    "projectMeta": "Fiver - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "No more question for design. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--3rd.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-clients",
+            "section": "client-section",
+            "section_title": {
+                "title": "Awesome Clients",
+                "subtitle": "Popular Clients"
+            },
+            "inner": [
+                {
+                    "id": "clinet-js",
+                    "inner_title": "JavaScript",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-design",
+                    "inner_title": "Product Design",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-wp",
+                    "inner_title": "Wordpress",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-to-react",
+                    "inner_title": "HTML to React",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-to-laravel",
+                    "inner_title": "React To Laravel",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-python",
+                    "inner_title": "Python",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "My Pricing",
+                "subtitle": "Pricing"
+            },
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "inner_title": "Basic",
+                    "title": "Make Your Single Page",
+                    "subtitle": "Elementor",
+                    "is_featured": false,
+                    "price": "$30.00",
+                    "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                },
+                {
+                    "id": "pricing-standard",
+                    "inner_title": "Standard",
+                    "title": "Design Make this Page",
+                    "subtitle": "Elementor",
+                    "is_featured": true,
+                    "price": "$50.00",
+                    "description": "Making this the first true generator on the Internet. It uses a dictionary & plugin Development.",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                },
+                {
+                    "id": "pricing-premium",
+                    "inner_title": "Premium",
+                    "title": "Customize Your Single Page",
+                    "subtitle": "Elementor",
+                    "is_featured": false,
+                    "price": "$90.00",
+                    "description": "I will install your desire theme and made like Theme demo and customize your single page( homepage)",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                }
+            ]
+        },
+        {
+            "id": "default-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and keep your feedback"
+            }
+        },
+        {
+            "id": "default-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact Us",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Kaffy Garg"
+                },
+                {
+                    "content": "Chief executive officer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Please contact us for any work related to security, Cleaning and Warehouse."
+                }
+            ]
+        }
+    ]
+}

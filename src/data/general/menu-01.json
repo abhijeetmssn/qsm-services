@@ -1,0 +1,20 @@
+{
+    "id": "main-menu-1",
+    "section": "menu-1",
+    "menu": [
+        {
+            "id": 1,
+            "text": "Home",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "Services",
+            "path": "portfolio"
+        }, {
+            "id": 8,
+            "text": "Contact",
+            "path": "contacts"
+        }
+    ]
+}
